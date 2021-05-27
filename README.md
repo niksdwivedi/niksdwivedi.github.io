@@ -1,4 +1,5 @@
-Nikhil Github Pages
+# Nikhil Github Pages
+Blog Post of Nikhil Dwivedi
 
 ## Credits
 This template was not made entirely from scratch. I would like to give special thanks to:
