@@ -4,5 +4,12 @@ title: About me
 subtitle:
 ---
 
-I recently started a PhD in machine/deep learning at the [Institut of Bioinformatics](http://www.bioinf.jku.at/) of the Johannes Kepler University in Linz, Austria in the team of Sepp Hochreiter.
-Previously I worked at the Institute of Water Management, Hydrology and Hydraulic Engineering at the BOKU University in Vienna, as a research assistant. I did my Master in environmental engineering ant the topic of my Master thesis was the development of a software as part of a semi-automatic monitoring system for fish migration in fish passes. The thesis can be found [here](http://permalink.obvsg.at/bok/AC13359496) (in German only). In my time as research assistant at the BOKU university I mostly worked on machine learning applications in the field of hydrology and environmental sciences.
+# Hi, I am Nikhil :wave:
+
+I am an avid book reader, technology enthusiast, philosopher, poem lover, sotryteller and an artist at my heart. I think this word needs a lot more of artists and poets.
+
+During the day, I develop Softwares that solve critical problems for enterprises. For a long time in my career I have been solving technological problems for Banks and Financial Institutions and helping them enhance their digital reach. At work, I juggle between the role of an Advisory and an Engineer <<my thoughts>>. My ability to see technology with lense of business and business with lense of technology helps me find the daily juice to survive.
+
+When I am not working, I may be found reading a book or pondering over thoughts of reading one. I try to find time to listen to Poems and [Ghazals](https://en.wikipedia.org/wiki/Ghazal).
+
+:mailbox_with_mail: You can reach me at niks.dwivedi@gmail.com
