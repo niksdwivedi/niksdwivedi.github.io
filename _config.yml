@@ -1,5 +1,5 @@
 # --- General options --- #
-title: 
+title:
 url: "https://niksdwivedi.github.io"
 baseurl: ""
 # Short description of your site
@@ -11,7 +11,7 @@ description: My digital diary
 navbar-links:
   About Me: "aboutme"
   #Open Learning: "openlearning"
-  Projects: "projects"
+  #Projects: "projects"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
