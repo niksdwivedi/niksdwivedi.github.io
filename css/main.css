@@ -106,7 +106,12 @@ img {
   }
 }
 
-/* --- Navbar --- */
+.blackbox {
+  background-color: #353535;
+  color: #CAD2D4;
+  margin-bottom: 30px;
+  width: 100%
+}
 
 /* --- Footer --- */
 
