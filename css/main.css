@@ -106,7 +106,8 @@ img {
   background-color: #353535;
   color: #CAD2D4;
   margin-bottom: 30px;
-  width: 100%
+  width: 100%;
+  text-align: left
 }
 
 /* --- Footer --- */
@@ -357,7 +358,6 @@ footer .theme-by {
   display: none;
 }
 .header-section-description {
-  font-family: 'Roboto Mono', Courier, Helvetica, sans-serif;
   font-size: 18px;
   color: #CAD2D4;
   font-weight: 400;
