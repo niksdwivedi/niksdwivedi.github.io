@@ -4,26 +4,16 @@
   <div class="container blackbox">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-<<div class="col-lg-4 col-lg-offset-2 col-md-5 col-md-offset-1">
-
-
-        < div class="{{ include.type }}-heading">
+        <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
             <hr class="small">
-            <span class="header-section-description">> Hello! My name is Nikhil
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-            </span> <br/>
-            <span class="header-section-description">> This is my digital log
-
-
-            </span> <br/>
+            <span class="header-section-description">> Hello! My name is Nikhil</span> <br/>
+            <span class="header-section-description">> This is my digital log</span> <br/>
 
 		  {% if include.type == "post" %}
 		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
 		  {% endif %}
         </div>
-      </div>
       </div>
     </div>
   </div>
