@@ -356,6 +356,15 @@ footer .theme-by {
   bottom: 0;
   display: none;
 }
+.header-section-description {
+  font-family: 'Roboto Mono', Courier, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #CAD2D4;
+  font-weight: 400;
+  text-decoration: none;
+  line-height: 20px;
+}
+
 @media only screen and (min-width: 768px) {
 }
 
