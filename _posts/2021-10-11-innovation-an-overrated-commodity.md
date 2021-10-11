@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Innovation - an overrated commodity?
-subtitle: test
+subtitle: Our perception of innovation is different to reality
 cover-img: /assets/img/idea-creative-innovation-reach.jpg
 share-img: /assets/img/innovation-2021-10-11.jpg
 tags: [innovation]
