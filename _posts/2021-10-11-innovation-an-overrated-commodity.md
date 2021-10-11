@@ -3,11 +3,11 @@ layout: post
 title: Innovation - an overrated commodity?
 subtitle: Our perception of innovation is different to reality
 cover-img: /assets/img/idea-creative-innovation-reach.jpg
-share-img: /assets/img/innovation-2021-10-11.jpg
+share-img: /assets/img/idea-creative-innovation-reach.jpg
 tags: [innovation]
 ---
 
-Overrated and still poorly understood, ‘**innovation**’ is one of the most popular and most sought-after concepts and it seems to take the top spot everywhere. The word itself is enough to remind us about the wonderful work by the likes of Mark Zuckerberg, Elon Musk, Jeff Bezos, chiefs of Google and Tony Stark, to name a few. 
+Overrated and still poorly understood, ‘**Innovation**’ is one of the most popular and most sought-after concepts and it seems to take the top spot everywhere. The word itself is enough to remind us about the wonderful work by the likes of Mark Zuckerberg, Elon Musk, Jeff Bezos, chiefs of Google and Tony Stark, to name a few. 
 
 We want to be part of the bandwagon one way or the other. Some want to work for such companies or people. Others look for ways to possess symbols of these innovations in form of mobile phones, countless apps in them, a voice-based digital personal assistant, a smartwatch, and many more. The recent growth of the start-up ecosystem has made us believe more in this art of innovation and looking outside the box.
 
